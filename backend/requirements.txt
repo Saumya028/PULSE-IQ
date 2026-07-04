@@ -10,3 +10,4 @@ beautifulsoup4
 lxml
 python-multipart
 aiofiles
+psycopg2-binary
